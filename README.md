@@ -62,8 +62,4 @@ The application uses the following third-party libraries:
 - Tkinter: Developed by the Python Software Foundation
 - PIL (Python Imaging Library): Developed by the Python Imaging Library (PIL) team
 
-## Disclaimer
 
-The application is provided as-is, without any warranty or guarantee of its functionality or accuracy. The author and OpenAI are not responsible for any damages or losses incurred while using this application.
-
-Use the application responsibly and at your own risk.
