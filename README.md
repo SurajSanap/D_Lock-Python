@@ -1,5 +1,5 @@
 # Password Unlock Application
-
+🔐
 This is a simple password unlock application implemented using the Tkinter library in Python. The application allows users to enter a password and unlock a certain feature based on the correctness of the password.
 
 ## Features
@@ -11,7 +11,7 @@ This is a simple password unlock application implemented using the Tkinter libra
 - Timer label: Shows the current time and animates with a floating effect.
 
 ## Prerequisites
-
+🗄️
 To run this application, you need to have Python installed on your system. Additionally, the following Python packages are required:
 
 - tkinter: A standard Python interface to the Tk GUI toolkit.
@@ -50,7 +50,7 @@ To run this application, you need to have Python installed on your system. Addit
 6. The timer label will show the current time and animate with a floating effect.
 
 ## License
-
+📃
 This application is open source and distributed under the MIT License. You can find the license information in the LICENSE file included with the source code.
 
 ## Acknowledgements
